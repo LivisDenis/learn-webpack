@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    padding: 50px 0;
+}
+h1 {
+    font-size: 46px;
+    text-align: center;
+}
+
+.logo {
+    background-image: url("../assets/3-37.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
